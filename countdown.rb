@@ -1,4 +1,13 @@
-#write your code here
+def countdown(int)
+  
+while int > 0
+sleep(1)
+puts "#{int} SECOND(S)!"
+int -= 1
 
-def countdown
+if int == 0
+sleep(1)
+puts "HAPPY NEW YEAR!"
 end
+end 
+end 
