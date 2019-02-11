@@ -5,8 +5,9 @@ puts "#{int} SECOND(S)!"
 int -= 1
 
 if int == 0
-puts "HAPPY NEW YEAR!"
+return "HAPPY NEW YEAR!"
+
 end
 end 
-end
+end 
 
